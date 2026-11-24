@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.vscode/
+# The copied reference media are not used. Only site-public is part of Rejoice's build.
+public/
